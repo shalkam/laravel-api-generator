@@ -19,7 +19,7 @@
             "src/Shalkam/Generator/Constants/Constants.php"
         ],
         "psr-4": {
-            "Mitul\\": "src/Shalkam/"
+            "Shalkam\\": "src/Shalkam/"
         }
     }
 }
