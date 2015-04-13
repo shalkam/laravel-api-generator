@@ -1,12 +1,12 @@
 {
-    "name": "mitulgolakiya/laravel-api-generator",
+    "name": "shalkam/laravel-api-generator",
     "description": "Laravel API/Scaffold/CRUD Generator from just one command with including Controller, Repository, Model, Migrations, routes.php update.",
     "keywords": ["laravel", "api", "model", "migration","scaffold", "CRUD",  "generator"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Mitul Golakiya",
-            "email": "me@mitul.me"
+            "name": "Mostafa Sholkamy",
+            "email": "info@thecodingdoctor.net"
         }
     ],
     "require": {
@@ -16,10 +16,10 @@
     },
     "autoload": {
         "files":[
-            "src/Mitul/Generator/Constants/Constants.php"
+            "src/Shalkam/Generator/Constants/Constants.php"
         ],
         "psr-4": {
-            "Mitul\\": "src/Mitul/"
+            "Mitul\\": "src/Shalkam/"
         }
     }
 }
